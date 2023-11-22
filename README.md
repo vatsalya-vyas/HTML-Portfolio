@@ -8,7 +8,7 @@ Welcome to my personal portfolio website! This single-page site is designed to i
 - **Profile Picture:** A visual representation of me.
 
 ## Preview
-[Visit Portfolio](link-to-portfolio-website)
+[Visit Portfolio](https://vatsalya-vyas.github.io/php-portfolio/)
 
 ## Usage
 Simply go through the webpage to view the content. Click on the social links to connect with me.
