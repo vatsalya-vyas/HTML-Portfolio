@@ -17,7 +17,7 @@ Simply go through the webpage to view the content. Click on the social links to 
 - HTML
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/your-username/portfolio.git`
+1. Clone the repository: `git clone https://github.com/vatsalya-vyas/HTML-Portfolio.git`
 2. Open the `index.html` file in your web browser.
 
 ## Contributing
