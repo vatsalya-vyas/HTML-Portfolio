@@ -24,6 +24,6 @@ Simply go through the webpage to view the content. Click on the social links to 
 Contributions are not applicable for this simple portfolio.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://www.mit.edu/~amini/LICENSE.md).
 
 Feel free to reach out if you have any questions or suggestions!
