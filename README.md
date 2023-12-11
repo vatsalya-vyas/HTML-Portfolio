@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This single-page site is designed to i
 
 ## Content
 - **About Me:** An introduction about me
-- **Social Links:** Links to my social media profiles.
+- **Social Links:** Links to my social media profiles
 - **Profile Picture:** A visual representation of me.
 
 ## Screenshots
