@@ -5,7 +5,7 @@ Welcome to my personal portfolio website! This single-page site is designed to i
 ## Content
 - **About Me:** An introduction about me
 - **Social Links:** Links to my social media profiles
-- **Profile Picture:** A visual representation of me.
+- **Profile Picture:** A visual representation of me
 
 ## Screenshots
 ![Screenshot from 2023-12-07 18-29-09](https://github.com/vatsalya-vyas/HTML-Portfolio/assets/140804211/4fbb81b8-8bc3-430b-a282-884b6f9dcb01)
