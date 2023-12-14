@@ -1,10 +1,10 @@
 # Personal Portfolio
 
-Welcome to my personal portfolio website! This single-page site is designed to introduce myself and provide links to my social profiles
+Welcome to my personal portfolio website! This single-page site is designed to introduce myself and provide links to my social profiles.
 
 ## Content
-- **About Me:** An introduction about me
-- **Social Links:** Links to my social media profiles
+- **About Me:** An introduction about me.
+- **Social Links:** Links to my social media profiles.
 - **Profile Picture:** A visual representation of me
 
 ## Screenshots
